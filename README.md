@@ -1,4 +1,7 @@
 # Swift
-This repository is the summary of all what I learned about Swift.
+This repository is the open sources of all what I made based on Swift 3 or higher version. 
+If you know more information, please visit my blogs - http://synabreu.wordpress.com
 
-1. AddToIntegers : This is the first swift project I've made. So Add two Integers number, and then print the sum of numbers based on the console program on the macOS. 
+1. AddToIntegers : This is the first swift project I've made. In reference, add two Integer numbers, and then print the sum of numbers, which is based on the console program on the macOS. 
+
+
