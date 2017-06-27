@@ -1,4 +1,4 @@
-# Swift
+# Swift -- Open Source examples and prototypes
 This repository is the open sources of all what I made by compiling on Swift 3 or higher version. 
 If you know more detail information, please visit Wiki on this github or my blogs - http://synabreu.wordpress.com
 
@@ -6,6 +6,6 @@ If you know more detail information, please visit Wiki on this github or my blog
 
 2. HelloWorld : This program displays 'Hello World!' on the label by setting up diverse properties. For UI testing, I built this program based on the single view Project of iOS.  
 
-3. InchesToCentimeters : Extending on testing a button handler, I built this program which exchange from inches to centimeters. One of the most confusing things I lived in the United States was to change between Inches and Centimeters.  
+3. InchesToCentimeters : Extending on testing a button handler, I built this program which exchanges from inches to centimeters. One of the most confusing things I lived in the United States was to change between Inches and Centimeters.  
 
 
