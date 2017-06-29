@@ -8,5 +8,5 @@ If you know more detail information, please visit Wiki on this github or my blog
 
 3. InchesToCentimeters : Extending on testing a button handler, I built this program which exchanges from inches to centimeters. One of the most confusing things I lived in the United States was to change between Inches and Centimeters.  
 
-<p color="red">haha</p>
+
 
