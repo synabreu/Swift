@@ -10,8 +10,8 @@ If you know more detail information, please visit Wiki on this github or my blog
 
 2. HelloWorld : This program displays 'Hello World!' on the label by setting up diverse properties. For UI testing, I built this program based on the single view Project of iOS.  
 
-<p align="center"><img src="/Screenshots/02.HelloWorld.png"></img></p>
-<p align="center">[Figure 02 - HelloWorld]</p>
+<p align="center" width="50" height="80"><img src="/Screenshots/02.HelloWorld.png"></img></p>
+<p align="center" >[Figure 02 - HelloWorld]</p>
 
 3. InchesToCentimeters : Extending on testing a button handler, I built this program which exchanges from inches to centimeters. One of the most confusing things I lived in the United States was to change between Inches and Centimeters.  
 
