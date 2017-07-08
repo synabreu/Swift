@@ -1,4 +1,5 @@
-//: How to repeat a string
+//: How to practice the servaral strings of swift 3 on the swift playgronds, iPad Pro
+
 import Foundation
 import UIKit
 
