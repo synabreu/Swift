@@ -1,5 +1,5 @@
 # Swift -- Open Source examples and prototypes
-This repository is the open sources of all what I made by compiling on Swift 3 or higher version. 
+This repository is about all what I made by compiling on Swift 3 or higher version. 
 If you know more detail information, please visit Wiki on this github or my blogs - http://synabreu.wordpress.com
 
 1. AddToIntegers : Just simple put! add two Integer numbers, and then print the sum of numbers, which is based on the console program on the macOS. 
@@ -20,3 +20,6 @@ If you know more detail information, please visit Wiki on this github or my blog
 <p align="center"><img src="/Screenshots/03.InchesToCentimeters.png"></img></p>
 <p align="center" >[Figure 02 - InchesToCentimeters]</p>
 
+4. MyCal : This program is a mini calculator. I learned about how to figure out the user interface including autolayout, button handler, as well as how to use the types of enum, struct, class for performing operators and calcurating numbers.  
+
+5. TrafficSegues : This program displays two windows for only testing segues including Titles, Navigation items, and Buttons.
