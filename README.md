@@ -25,7 +25,7 @@ If you know more detail information, please visit Wiki on this github or my blog
 
 4. MyCal : This prototype is a mini calculator. I learned about how to figure out the user interface including autolayout, button handler, as well as how to use the types of enum, struct, class for performing operators and calcurating numbers. 
 
-<p align="center"><img src="/Screenshots/04.MyCal.png"></img></p>
+<p align="center"><img src="/Screenshots/04.MyCal.png" width="70" height="70"></img></p>
 <p align="center" >[Figure 01 - MyCal]</p>
 
 5. TrafficSegues : This program displays two windows for only testing segues including Titles, Navigation items, and Buttons.
