@@ -32,7 +32,7 @@ If you know more detail information, please visit Wiki on this github or my blog
 
 6. MyARBillBoard : This prototype is my first AR app on iOS11 Beta, showing Mt. Yosemiti on the billboard. This app was compiled by XCode 9 Beta 3. 
 
-<p align="center"><img src="/Screenshots/06.MyARBillBoard.png" width="200" height="300"></img></p>
+<p align="center"><img src="/Screenshots/06.MyARBillBoard.png" width="200" height="380"></img></p>
 <p align="center" >[Figure 02 - MyARBillBoard]</p>
 
 
