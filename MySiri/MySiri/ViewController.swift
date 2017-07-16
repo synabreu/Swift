@@ -1,7 +1,7 @@
 //
 //  File Name    : ViewController.swift
 //  Project Name : MySiri
-//  Overview     : This prototype shows you to convert from your voice to text both English and Korean language using speechFramework. So This app was compiled by XCode 9 Beta 3 and Swift 4.
+//  Overview     : This prototype shows you to transform your voice into text both English and Korean language using speechFramework. So This app was compiled by XCode 9 Beta 3 and Swift 4.
 //
 //  Created by Jinho Seo on 7/12/17.
 //  Copyright © 2017 Jinho Seo. All rights reserved.
